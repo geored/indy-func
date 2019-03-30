@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+#firebase secret initialization file
+functions/indyperf-1-firebase-adminsdk-0xi2n-6122d65a90.json
+
+functions/node_modules/
